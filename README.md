@@ -1,7 +1,7 @@
 # AOM Founder Family App 🥝
 
 FlutterFlow-built community prototype that helps Founder Family members sign in,
-share updates, and stay connected across mobile, web, and desktop targets.
+share updates, and stay connected.
 
 ## Tech Stack 🛠️
 
