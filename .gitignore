@@ -16,3 +16,4 @@ ios/Runner/GoogleService-Info.plist
 # Local config files
 lib/config/*.dart
 .env
+
