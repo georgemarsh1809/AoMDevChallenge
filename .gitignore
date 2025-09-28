@@ -1,0 +1,18 @@
+# Firebase config files
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Any environment / API keys
+*.env
+*.secret
+*.key
+*.pem
+*.p12
+
+# Generated keystore for Android
+*.jks
+*.keystore
+
+# Local config files
+lib/config/*.dart
+.env
